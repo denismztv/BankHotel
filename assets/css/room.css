@@ -1,0 +1,12 @@
+.room-banner {
+  background-image: url(../media/room/banner.jpg);
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.room-banner__text {
+  color: var(--color-accent-yellow);
+}
+.room-banner__text h2 {
+  margin-bottom: 347px;
+}
